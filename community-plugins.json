@@ -58833,5 +58833,12 @@
     "author": "stmoonar",
     "description": "Upload and manage media and documents across multiple providers (Local on desktop, S3, MinIO, Cloudflare R2, SM.MS, GitHub, Aliyun, Tencent, Qiniu, Upyun, Imgur). - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "stmoonar/oss-gallery-plugin-obsidian"
+  },
+  {
+    "id": "ruwritingstyles",
+    "name": "RuWritingStyles",
+    "author": "M. Yu. Gasuns",
+    "description": "Inline philological checks for Russian Sanskrit-studies notes: IAST transliteration linting and journal compliance, ported from the RuWritingStyles engine. Runs locally with no server or API key.",
+    "repo": "gasyoun/ruwritingstyles-obsidian"
   }
 ]
